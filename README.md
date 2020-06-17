@@ -1,4 +1,7 @@
 # face-mask-detection
+
+dataset link - https://drive.google.com/drive/u/0/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG
+
 face mask detector didn't uses any morphed masked images dataset. 
 The model is accurate, and since we used the MobileNetV2 architecture, 
 it’s also computationally efficient and thus making it easier to deploy 
